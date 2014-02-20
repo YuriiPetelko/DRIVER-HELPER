@@ -7,20 +7,74 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5A357A3E18A23F4A00FB98D7 /* MainMenuViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5A357A3D18A23F4A00FB98D7 /* MainMenuViewController.m */; };
+		5A357A4518A281D900FB98D7 /* 1391632011_charge_battery.png in Resources */ = {isa = PBXBuildFile; fileRef = 5A357A4118A281D900FB98D7 /* 1391632011_charge_battery.png */; };
+		5A357A4618A281D900FB98D7 /* 1391632018_shopping_bag.png in Resources */ = {isa = PBXBuildFile; fileRef = 5A357A4218A281D900FB98D7 /* 1391632018_shopping_bag.png */; };
+		5A357A4718A281D900FB98D7 /* 1391632024_speedometer.png in Resources */ = {isa = PBXBuildFile; fileRef = 5A357A4318A281D900FB98D7 /* 1391632024_speedometer.png */; };
+		5A357A4818A281D900FB98D7 /* 1391632062_location.png in Resources */ = {isa = PBXBuildFile; fileRef = 5A357A4418A281D900FB98D7 /* 1391632062_location.png */; };
+		5A357A4B18A282EB00FB98D7 /* 1391632273_update.png in Resources */ = {isa = PBXBuildFile; fileRef = 5A357A4918A282EB00FB98D7 /* 1391632273_update.png */; };
+		5A357A4C18A282EB00FB98D7 /* 1391632364_60.png in Resources */ = {isa = PBXBuildFile; fileRef = 5A357A4A18A282EB00FB98D7 /* 1391632364_60.png */; };
 		5AAF1BD4188957E6002C74AE /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5AAF1BD3188957E6002C74AE /* Foundation.framework */; };
 		5AAF1BD6188957E6002C74AE /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5AAF1BD5188957E6002C74AE /* CoreGraphics.framework */; };
 		5AAF1BD8188957E6002C74AE /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5AAF1BD7188957E6002C74AE /* UIKit.framework */; };
 		5AAF1BDE188957E6002C74AE /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 5AAF1BDC188957E6002C74AE /* InfoPlist.strings */; };
 		5AAF1BE0188957E6002C74AE /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5AAF1BDF188957E6002C74AE /* main.m */; };
 		5AAF1BE4188957E6002C74AE /* WLANAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 5AAF1BE3188957E6002C74AE /* WLANAppDelegate.m */; };
-		5AAF1BE7188957E6002C74AE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5AAF1BE5188957E6002C74AE /* Main.storyboard */; };
-		5AAF1BEA188957E6002C74AE /* WLANViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5AAF1BE9188957E6002C74AE /* WLANViewController.m */; };
 		5AAF1BEC188957E6002C74AE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5AAF1BEB188957E6002C74AE /* Images.xcassets */; };
 		5AAF1BF3188957E7002C74AE /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5AAF1BF2188957E7002C74AE /* XCTest.framework */; };
 		5AAF1BF4188957E7002C74AE /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5AAF1BD3188957E6002C74AE /* Foundation.framework */; };
 		5AAF1BF5188957E7002C74AE /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5AAF1BD7188957E6002C74AE /* UIKit.framework */; };
 		5AAF1BFD188957E7002C74AE /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 5AAF1BFB188957E7002C74AE /* InfoPlist.strings */; };
 		5AAF1BFF188957E7002C74AE /* BMW_ClientTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5AAF1BFE188957E7002C74AE /* BMW_ClientTests.m */; };
+		5AAF72C81892FA0300DA730D /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5AAF72C71892FA0300DA730D /* MapKit.framework */; };
+		5AAF72CE189309E100DA730D /* MapPlacesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5AAF72CD189309E100DA730D /* MapPlacesViewController.m */; };
+		5AAF72D118931B4400DA730D /* MapPoint.m in Sources */ = {isa = PBXBuildFile; fileRef = 5AAF72D018931B4400DA730D /* MapPoint.m */; };
+		5AB3B93318AE68F60035D7DE /* Bmw-Sedan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5AB3B93218AE68F60035D7DE /* Bmw-Sedan.jpg */; };
+		5AB54EEB18B0C2760087C307 /* LeveyPopListView.m in Sources */ = {isa = PBXBuildFile; fileRef = 5AB54EE818B0C2760087C307 /* LeveyPopListView.m */; };
+		5AB54EEC18B0C2760087C307 /* LeveyPopListViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 5AB54EEA18B0C2760087C307 /* LeveyPopListViewCell.m */; };
+		5AB738A1188E999400E5D6BC /* MileageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5AB738A0188E999400E5D6BC /* MileageViewController.m */; };
+		5AB738A4188EA26200E5D6BC /* TimeSyncViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5AB738A3188EA26200E5D6BC /* TimeSyncViewController.m */; };
+		5AB738B0188EAAA700E5D6BC /* TemperatureViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5AB738AF188EAAA700E5D6BC /* TemperatureViewController.m */; };
+		5AB8B2521892918C000001E5 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5AB8B2511892918C000001E5 /* AVFoundation.framework */; };
+		5AB8B25418929194000001E5 /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5AB8B25318929194000001E5 /* CoreData.framework */; };
+		5AB8B2561892919E000001E5 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5AB8B2551892919E000001E5 /* CoreLocation.framework */; };
+		5AB8B258189291A8000001E5 /* CoreText.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5AB8B257189291A8000001E5 /* CoreText.framework */; };
+		5AB8B25A189291B1000001E5 /* GLKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5AB8B259189291B1000001E5 /* GLKit.framework */; };
+		5AB8B25C189291BF000001E5 /* ImageIO.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5AB8B25B189291BF000001E5 /* ImageIO.framework */; };
+		5AB8B25E189291CE000001E5 /* libc++.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 5AB8B25D189291CE000001E5 /* libc++.dylib */; };
+		5AB8B262189291FA000001E5 /* libicucore.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 5AB8B261189291FA000001E5 /* libicucore.dylib */; };
+		5AB8B26418929204000001E5 /* libz.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 5AB8B26318929204000001E5 /* libz.dylib */; };
+		5AB8B26618929213000001E5 /* OpenGLES.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5AB8B26518929213000001E5 /* OpenGLES.framework */; };
+		5AB8B2681892921E000001E5 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5AB8B2671892921E000001E5 /* QuartzCore.framework */; };
+		5AB8B26A1892922C000001E5 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5AB8B2691892922C000001E5 /* SystemConfiguration.framework */; };
+		5AB8B26C18929AC0000001E5 /* GoogleMaps.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5AB8B26B18929AC0000001E5 /* GoogleMaps.framework */; };
+		5AB8B27018929B76000001E5 /* GoogleMaps.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 5AB8B26F18929B76000001E5 /* GoogleMaps.bundle */; };
+		5ABA0D001897C55000DC4FAF /* SWRevealViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5ABA0CFF1897C55000DC4FAF /* SWRevealViewController.m */; };
+		5ABA0D0B1897D36A00DC4FAF /* menu.png in Resources */ = {isa = PBXBuildFile; fileRef = 5ABA0D0A1897D36A00DC4FAF /* menu.png */; };
+		5ABC2FB118A4F65000DF9F5A /* pin.png in Resources */ = {isa = PBXBuildFile; fileRef = 5ABC2FB018A4F65000DF9F5A /* pin.png */; };
+		5ABC47FB18A3B34F00EE8F6B /* 1391624059_star.png in Resources */ = {isa = PBXBuildFile; fileRef = 5ABC47FA18A3B34F00EE8F6B /* 1391624059_star.png */; };
+		5ABC481118A3B50000EE8F6B /* arrow_down1.png in Resources */ = {isa = PBXBuildFile; fileRef = 5ABC47FF18A3B4FF00EE8F6B /* arrow_down1.png */; };
+		5ABC481218A3B50000EE8F6B /* arrow_down1@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5ABC480018A3B4FF00EE8F6B /* arrow_down1@2x.png */; };
+		5ABC481418A3B50000EE8F6B /* SICellSelection.m in Sources */ = {isa = PBXBuildFile; fileRef = 5ABC480318A3B4FF00EE8F6B /* SICellSelection.m */; };
+		5ABC481518A3B50000EE8F6B /* SIMenuButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 5ABC480518A3B4FF00EE8F6B /* SIMenuButton.m */; };
+		5ABC481618A3B50000EE8F6B /* SIMenuCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 5ABC480718A3B4FF00EE8F6B /* SIMenuCell.m */; };
+		5ABC481718A3B50000EE8F6B /* SIMenuConfiguration.m in Sources */ = {isa = PBXBuildFile; fileRef = 5ABC480918A3B4FF00EE8F6B /* SIMenuConfiguration.m */; };
+		5ABC481818A3B50000EE8F6B /* SIMenuTable.m in Sources */ = {isa = PBXBuildFile; fileRef = 5ABC480B18A3B4FF00EE8F6B /* SIMenuTable.m */; };
+		5ABC481918A3B50000EE8F6B /* SINavigationMenuView.m in Sources */ = {isa = PBXBuildFile; fileRef = 5ABC480D18A3B4FF00EE8F6B /* SINavigationMenuView.m */; };
+		5ABC481A18A3B50000EE8F6B /* UIColor+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 5ABC480F18A3B4FF00EE8F6B /* UIColor+Extension.m */; };
+		5ABC482018A3BFA500EE8F6B /* arrow_.png in Resources */ = {isa = PBXBuildFile; fileRef = 5ABC481F18A3BFA500EE8F6B /* arrow_.png */; };
+		5ABE1DF11893CC40004EEAFA /* FavouritesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5ABE1DF01893CC3F004EEAFA /* FavouritesViewController.m */; };
+		5ABF021C1889B72700ABDBF6 /* TableOptionsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5ABF021B1889B72700ABDBF6 /* TableOptionsViewController.m */; };
+		5ABF02651889E2B100ABDBF6 /* ConnectionModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 5ABF02641889E2B100ABDBF6 /* ConnectionModel.m */; };
+		5ABFEAB1188D286100589929 /* FuelViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5ABFEAB0188D286100589929 /* FuelViewController.m */; };
+		5AC54FE618A3D26C0092BC1E /* settings.png in Resources */ = {isa = PBXBuildFile; fileRef = 5AC54FE518A3D26C0092BC1E /* settings.png */; };
+		5AC54FE818A3D5B90092BC1E /* atention.png in Resources */ = {isa = PBXBuildFile; fileRef = 5AC54FE718A3D5B90092BC1E /* atention.png */; };
+		5AC69EEE188DB7D7009D6EF5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5AC69EED188DB7D7009D6EF5 /* Main.storyboard */; };
+		5AC7080D18AA6DBD00D6DE1D /* Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 5AC7080C18AA6DBD00D6DE1D /* Reachability.m */; };
+		5AC80D9918A8F54300BCEE4A /* bmw.png in Resources */ = {isa = PBXBuildFile; fileRef = 5AC80D9818A8F54300BCEE4A /* bmw.png */; };
+		5AC80D9C18A9328500BCEE4A /* ListOfPlacesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5AC80D9B18A9328500BCEE4A /* ListOfPlacesViewController.m */; };
+		5ACE8AF118A9753A007828CE /* ObjectListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5ACE8AF018A9753A007828CE /* ObjectListViewController.m */; };
+		5AE8DBFB18B37C5500982156 /* HMSideMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = 5AE8DBFA18B37C5500982156 /* HMSideMenu.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +88,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		5A357A3C18A23F4A00FB98D7 /* MainMenuViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainMenuViewController.h; sourceTree = "<group>"; };
+		5A357A3D18A23F4A00FB98D7 /* MainMenuViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainMenuViewController.m; sourceTree = "<group>"; };
+		5A357A4118A281D900FB98D7 /* 1391632011_charge_battery.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 1391632011_charge_battery.png; path = ../../../Downloads/1391632011_charge_battery.png; sourceTree = "<group>"; };
+		5A357A4218A281D900FB98D7 /* 1391632018_shopping_bag.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 1391632018_shopping_bag.png; path = ../../../Downloads/1391632018_shopping_bag.png; sourceTree = "<group>"; };
+		5A357A4318A281D900FB98D7 /* 1391632024_speedometer.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 1391632024_speedometer.png; path = ../../../Downloads/1391632024_speedometer.png; sourceTree = "<group>"; };
+		5A357A4418A281D900FB98D7 /* 1391632062_location.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 1391632062_location.png; path = ../../../Downloads/1391632062_location.png; sourceTree = "<group>"; };
+		5A357A4918A282EB00FB98D7 /* 1391632273_update.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 1391632273_update.png; path = ../../../Downloads/1391632273_update.png; sourceTree = "<group>"; };
+		5A357A4A18A282EB00FB98D7 /* 1391632364_60.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 1391632364_60.png; path = ../../../Downloads/1391632364_60.png; sourceTree = "<group>"; };
 		5AAF1BD0188957E6002C74AE /* BMW_Client.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BMW_Client.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5AAF1BD3188957E6002C74AE /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		5AAF1BD5188957E6002C74AE /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -44,15 +106,85 @@
 		5AAF1BE1188957E6002C74AE /* BMW_Client-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "BMW_Client-Prefix.pch"; sourceTree = "<group>"; };
 		5AAF1BE2188957E6002C74AE /* WLANAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WLANAppDelegate.h; sourceTree = "<group>"; };
 		5AAF1BE3188957E6002C74AE /* WLANAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WLANAppDelegate.m; sourceTree = "<group>"; };
-		5AAF1BE6188957E6002C74AE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		5AAF1BE8188957E6002C74AE /* WLANViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WLANViewController.h; sourceTree = "<group>"; };
-		5AAF1BE9188957E6002C74AE /* WLANViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WLANViewController.m; sourceTree = "<group>"; };
 		5AAF1BEB188957E6002C74AE /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		5AAF1BF1188957E7002C74AE /* BMW_ClientTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BMW_ClientTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5AAF1BF2188957E7002C74AE /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		5AAF1BFA188957E7002C74AE /* BMW_ClientTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "BMW_ClientTests-Info.plist"; sourceTree = "<group>"; };
 		5AAF1BFC188957E7002C74AE /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		5AAF1BFE188957E7002C74AE /* BMW_ClientTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BMW_ClientTests.m; sourceTree = "<group>"; };
+		5AAF72C71892FA0300DA730D /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		5AAF72CC189309E100DA730D /* MapPlacesViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MapPlacesViewController.h; sourceTree = "<group>"; };
+		5AAF72CD189309E100DA730D /* MapPlacesViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MapPlacesViewController.m; sourceTree = "<group>"; };
+		5AAF72CF18931B4400DA730D /* MapPoint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MapPoint.h; sourceTree = "<group>"; };
+		5AAF72D018931B4400DA730D /* MapPoint.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MapPoint.m; sourceTree = "<group>"; };
+		5AB3B93218AE68F60035D7DE /* Bmw-Sedan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Bmw-Sedan.jpg"; path = "../Bmw-Sedan.jpg"; sourceTree = "<group>"; };
+		5AB54EE718B0C2760087C307 /* LeveyPopListView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LeveyPopListView.h; sourceTree = "<group>"; };
+		5AB54EE818B0C2760087C307 /* LeveyPopListView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LeveyPopListView.m; sourceTree = "<group>"; };
+		5AB54EE918B0C2760087C307 /* LeveyPopListViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LeveyPopListViewCell.h; sourceTree = "<group>"; };
+		5AB54EEA18B0C2760087C307 /* LeveyPopListViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LeveyPopListViewCell.m; sourceTree = "<group>"; };
+		5AB7389F188E999400E5D6BC /* MileageViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MileageViewController.h; sourceTree = "<group>"; };
+		5AB738A0188E999400E5D6BC /* MileageViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MileageViewController.m; sourceTree = "<group>"; };
+		5AB738A2188EA26200E5D6BC /* TimeSyncViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TimeSyncViewController.h; path = ../TimeSyncViewController.h; sourceTree = "<group>"; };
+		5AB738A3188EA26200E5D6BC /* TimeSyncViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TimeSyncViewController.m; path = ../TimeSyncViewController.m; sourceTree = "<group>"; };
+		5AB738AE188EAAA700E5D6BC /* TemperatureViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TemperatureViewController.h; sourceTree = "<group>"; };
+		5AB738AF188EAAA700E5D6BC /* TemperatureViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TemperatureViewController.m; sourceTree = "<group>"; };
+		5AB8B2511892918C000001E5 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		5AB8B25318929194000001E5 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		5AB8B2551892919E000001E5 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		5AB8B257189291A8000001E5 /* CoreText.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreText.framework; path = System/Library/Frameworks/CoreText.framework; sourceTree = SDKROOT; };
+		5AB8B259189291B1000001E5 /* GLKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GLKit.framework; path = System/Library/Frameworks/GLKit.framework; sourceTree = SDKROOT; };
+		5AB8B25B189291BF000001E5 /* ImageIO.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ImageIO.framework; path = System/Library/Frameworks/ImageIO.framework; sourceTree = SDKROOT; };
+		5AB8B25D189291CE000001E5 /* libc++.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = "libc++.dylib"; path = "usr/lib/libc++.dylib"; sourceTree = SDKROOT; };
+		5AB8B25F189291EA000001E5 /* libicucore.A.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libicucore.A.dylib; path = usr/lib/libicucore.A.dylib; sourceTree = SDKROOT; };
+		5AB8B261189291FA000001E5 /* libicucore.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libicucore.dylib; path = usr/lib/libicucore.dylib; sourceTree = SDKROOT; };
+		5AB8B26318929204000001E5 /* libz.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.dylib; path = usr/lib/libz.dylib; sourceTree = SDKROOT; };
+		5AB8B26518929213000001E5 /* OpenGLES.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGLES.framework; path = System/Library/Frameworks/OpenGLES.framework; sourceTree = SDKROOT; };
+		5AB8B2671892921E000001E5 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		5AB8B2691892922C000001E5 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		5AB8B26B18929AC0000001E5 /* GoogleMaps.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = GoogleMaps.framework; sourceTree = "<group>"; };
+		5AB8B26F18929B76000001E5 /* GoogleMaps.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; name = GoogleMaps.bundle; path = GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle; sourceTree = "<group>"; };
+		5ABA0CFE1897C55000DC4FAF /* SWRevealViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SWRevealViewController.h; path = "../../../Downloads/SWRevealViewController-master/SWRevealViewController/SWRevealViewController.h"; sourceTree = "<group>"; };
+		5ABA0CFF1897C55000DC4FAF /* SWRevealViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SWRevealViewController.m; path = "../../../Downloads/SWRevealViewController-master/SWRevealViewController/SWRevealViewController.m"; sourceTree = "<group>"; };
+		5ABA0D0A1897D36A00DC4FAF /* menu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = menu.png; path = ../../../Downloads/SidebarDemo/SidebarDemo/menu.png; sourceTree = "<group>"; };
+		5ABC2FB018A4F65000DF9F5A /* pin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pin.png; sourceTree = "<group>"; };
+		5ABC47FA18A3B34F00EE8F6B /* 1391624059_star.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 1391624059_star.png; path = ../../../Downloads/1391624059_star.png; sourceTree = "<group>"; };
+		5ABC47FF18A3B4FF00EE8F6B /* arrow_down1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = arrow_down1.png; sourceTree = "<group>"; };
+		5ABC480018A3B4FF00EE8F6B /* arrow_down1@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow_down1@2x.png"; sourceTree = "<group>"; };
+		5ABC480218A3B4FF00EE8F6B /* SICellSelection.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SICellSelection.h; sourceTree = "<group>"; };
+		5ABC480318A3B4FF00EE8F6B /* SICellSelection.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SICellSelection.m; sourceTree = "<group>"; };
+		5ABC480418A3B4FF00EE8F6B /* SIMenuButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SIMenuButton.h; sourceTree = "<group>"; };
+		5ABC480518A3B4FF00EE8F6B /* SIMenuButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SIMenuButton.m; sourceTree = "<group>"; };
+		5ABC480618A3B4FF00EE8F6B /* SIMenuCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SIMenuCell.h; sourceTree = "<group>"; };
+		5ABC480718A3B4FF00EE8F6B /* SIMenuCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SIMenuCell.m; sourceTree = "<group>"; };
+		5ABC480818A3B4FF00EE8F6B /* SIMenuConfiguration.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SIMenuConfiguration.h; sourceTree = "<group>"; };
+		5ABC480918A3B4FF00EE8F6B /* SIMenuConfiguration.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SIMenuConfiguration.m; sourceTree = "<group>"; };
+		5ABC480A18A3B4FF00EE8F6B /* SIMenuTable.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SIMenuTable.h; sourceTree = "<group>"; };
+		5ABC480B18A3B4FF00EE8F6B /* SIMenuTable.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SIMenuTable.m; sourceTree = "<group>"; };
+		5ABC480C18A3B4FF00EE8F6B /* SINavigationMenuView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SINavigationMenuView.h; sourceTree = "<group>"; };
+		5ABC480D18A3B4FF00EE8F6B /* SINavigationMenuView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SINavigationMenuView.m; sourceTree = "<group>"; };
+		5ABC480E18A3B4FF00EE8F6B /* UIColor+Extension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+Extension.h"; sourceTree = "<group>"; };
+		5ABC480F18A3B4FF00EE8F6B /* UIColor+Extension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+Extension.m"; sourceTree = "<group>"; };
+		5ABC481F18A3BFA500EE8F6B /* arrow_.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = arrow_.png; sourceTree = "<group>"; };
+		5ABE1DEF1893CC3F004EEAFA /* FavouritesViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FavouritesViewController.h; sourceTree = "<group>"; };
+		5ABE1DF01893CC3F004EEAFA /* FavouritesViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FavouritesViewController.m; sourceTree = "<group>"; };
+		5ABF021A1889B72700ABDBF6 /* TableOptionsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TableOptionsViewController.h; path = ../TableOptionsViewController.h; sourceTree = "<group>"; };
+		5ABF021B1889B72700ABDBF6 /* TableOptionsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TableOptionsViewController.m; path = ../TableOptionsViewController.m; sourceTree = "<group>"; };
+		5ABF02631889E2B100ABDBF6 /* ConnectionModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ConnectionModel.h; sourceTree = "<group>"; };
+		5ABF02641889E2B100ABDBF6 /* ConnectionModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ConnectionModel.m; sourceTree = "<group>"; };
+		5ABFEAAF188D286100589929 /* FuelViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FuelViewController.h; path = ../FuelViewController.h; sourceTree = "<group>"; };
+		5ABFEAB0188D286100589929 /* FuelViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FuelViewController.m; path = ../FuelViewController.m; sourceTree = "<group>"; };
+		5AC54FE518A3D26C0092BC1E /* settings.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = settings.png; path = ../../settings.png; sourceTree = "<group>"; };
+		5AC54FE718A3D5B90092BC1E /* atention.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = atention.png; sourceTree = "<group>"; };
+		5AC69EED188DB7D7009D6EF5 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		5AC7080B18AA6DBD00D6DE1D /* Reachability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Reachability.h; sourceTree = "<group>"; };
+		5AC7080C18AA6DBD00D6DE1D /* Reachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Reachability.m; sourceTree = "<group>"; };
+		5AC80D9818A8F54300BCEE4A /* bmw.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = bmw.png; path = ../../bmw.png; sourceTree = "<group>"; };
+		5AC80D9A18A9328500BCEE4A /* ListOfPlacesViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ListOfPlacesViewController.h; sourceTree = "<group>"; };
+		5AC80D9B18A9328500BCEE4A /* ListOfPlacesViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ListOfPlacesViewController.m; sourceTree = "<group>"; };
+		5ACE8AEF18A9753A007828CE /* ObjectListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ObjectListViewController.h; path = ../../../.Trash/ObjectListViewController.h; sourceTree = "<group>"; };
+		5ACE8AF018A9753A007828CE /* ObjectListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ObjectListViewController.m; path = ../../../.Trash/ObjectListViewController.m; sourceTree = "<group>"; };
+		5AE8DBF918B37C5500982156 /* HMSideMenu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HMSideMenu.h; sourceTree = "<group>"; };
+		5AE8DBFA18B37C5500982156 /* HMSideMenu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HMSideMenu.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,8 +192,22 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5AAF72C81892FA0300DA730D /* MapKit.framework in Frameworks */,
+				5AB8B26A1892922C000001E5 /* SystemConfiguration.framework in Frameworks */,
+				5AB8B2681892921E000001E5 /* QuartzCore.framework in Frameworks */,
+				5AB8B26618929213000001E5 /* OpenGLES.framework in Frameworks */,
+				5AB8B26418929204000001E5 /* libz.dylib in Frameworks */,
+				5AB8B262189291FA000001E5 /* libicucore.dylib in Frameworks */,
+				5AB8B25E189291CE000001E5 /* libc++.dylib in Frameworks */,
+				5AB8B25C189291BF000001E5 /* ImageIO.framework in Frameworks */,
+				5AB8B25A189291B1000001E5 /* GLKit.framework in Frameworks */,
+				5AB8B258189291A8000001E5 /* CoreText.framework in Frameworks */,
+				5AB8B2561892919E000001E5 /* CoreLocation.framework in Frameworks */,
+				5AB8B25418929194000001E5 /* CoreData.framework in Frameworks */,
+				5AB8B2521892918C000001E5 /* AVFoundation.framework in Frameworks */,
 				5AAF1BD6188957E6002C74AE /* CoreGraphics.framework in Frameworks */,
 				5AAF1BD8188957E6002C74AE /* UIKit.framework in Frameworks */,
+				5AB8B26C18929AC0000001E5 /* GoogleMaps.framework in Frameworks */,
 				5AAF1BD4188957E6002C74AE /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -83,7 +229,6 @@
 			isa = PBXGroup;
 			children = (
 				5AAF1BD9188957E6002C74AE /* BMW_Client */,
-				5AAF1BF8188957E7002C74AE /* BMW_ClientTests */,
 				5AAF1BD2188957E6002C74AE /* Frameworks */,
 				5AAF1BD1188957E6002C74AE /* Products */,
 			);
@@ -101,6 +246,22 @@
 		5AAF1BD2188957E6002C74AE /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				5AAF72C71892FA0300DA730D /* MapKit.framework */,
+				5AB8B26F18929B76000001E5 /* GoogleMaps.bundle */,
+				5AB8B26B18929AC0000001E5 /* GoogleMaps.framework */,
+				5AB8B2691892922C000001E5 /* SystemConfiguration.framework */,
+				5AB8B2671892921E000001E5 /* QuartzCore.framework */,
+				5AB8B26518929213000001E5 /* OpenGLES.framework */,
+				5AB8B26318929204000001E5 /* libz.dylib */,
+				5AB8B261189291FA000001E5 /* libicucore.dylib */,
+				5AB8B25F189291EA000001E5 /* libicucore.A.dylib */,
+				5AB8B25D189291CE000001E5 /* libc++.dylib */,
+				5AB8B25B189291BF000001E5 /* ImageIO.framework */,
+				5AB8B259189291B1000001E5 /* GLKit.framework */,
+				5AB8B257189291A8000001E5 /* CoreText.framework */,
+				5AB8B2551892919E000001E5 /* CoreLocation.framework */,
+				5AB8B25318929194000001E5 /* CoreData.framework */,
+				5AB8B2511892918C000001E5 /* AVFoundation.framework */,
 				5AAF1BD3188957E6002C74AE /* Foundation.framework */,
 				5AAF1BD5188957E6002C74AE /* CoreGraphics.framework */,
 				5AAF1BD7188957E6002C74AE /* UIKit.framework */,
@@ -112,11 +273,22 @@
 		5AAF1BD9188957E6002C74AE /* BMW_Client */ = {
 			isa = PBXGroup;
 			children = (
+				5ABC47F918A3B31400EE8F6B /* Images */,
+				5ABC47F818A3B2F900EE8F6B /* Map */,
+				5ABC47F618A3B2B000EE8F6B /* Options of menu */,
+				5ABC47F518A3B23600EE8F6B /* Addtion classes */,
+				5AAF1BF8188957E7002C74AE /* BMW_ClientTests */,
+				5ABF021A1889B72700ABDBF6 /* TableOptionsViewController.h */,
+				5ABF021B1889B72700ABDBF6 /* TableOptionsViewController.m */,
+				5ACE8AEF18A9753A007828CE /* ObjectListViewController.h */,
+				5ACE8AF018A9753A007828CE /* ObjectListViewController.m */,
+				5AC69EED188DB7D7009D6EF5 /* Main.storyboard */,
+				5A357A3C18A23F4A00FB98D7 /* MainMenuViewController.h */,
+				5A357A3D18A23F4A00FB98D7 /* MainMenuViewController.m */,
+				5ABF02631889E2B100ABDBF6 /* ConnectionModel.h */,
+				5ABF02641889E2B100ABDBF6 /* ConnectionModel.m */,
 				5AAF1BE2188957E6002C74AE /* WLANAppDelegate.h */,
 				5AAF1BE3188957E6002C74AE /* WLANAppDelegate.m */,
-				5AAF1BE5188957E6002C74AE /* Main.storyboard */,
-				5AAF1BE8188957E6002C74AE /* WLANViewController.h */,
-				5AAF1BE9188957E6002C74AE /* WLANViewController.m */,
 				5AAF1BEB188957E6002C74AE /* Images.xcassets */,
 				5AAF1BDA188957E6002C74AE /* Supporting Files */,
 			);
@@ -128,6 +300,7 @@
 			children = (
 				5AAF1BDB188957E6002C74AE /* BMW_Client-Info.plist */,
 				5AAF1BDC188957E6002C74AE /* InfoPlist.strings */,
+				5AC80D9818A8F54300BCEE4A /* bmw.png */,
 				5AAF1BDF188957E6002C74AE /* main.m */,
 				5AAF1BE1188957E6002C74AE /* BMW_Client-Prefix.pch */,
 			);
@@ -141,7 +314,7 @@
 				5AAF1BF9188957E7002C74AE /* Supporting Files */,
 			);
 			path = BMW_ClientTests;
-			sourceTree = "<group>";
+			sourceTree = SOURCE_ROOT;
 		};
 		5AAF1BF9188957E7002C74AE /* Supporting Files */ = {
 			isa = PBXGroup;
@@ -150,6 +323,121 @@
 				5AAF1BFB188957E7002C74AE /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		5AB54EE618B0C2760087C307 /* LeveyPopListView */ = {
+			isa = PBXGroup;
+			children = (
+				5AB54EE718B0C2760087C307 /* LeveyPopListView.h */,
+				5AB54EE818B0C2760087C307 /* LeveyPopListView.m */,
+				5AB54EE918B0C2760087C307 /* LeveyPopListViewCell.h */,
+				5AB54EEA18B0C2760087C307 /* LeveyPopListViewCell.m */,
+			);
+			path = LeveyPopListView;
+			sourceTree = "<group>";
+		};
+		5ABC47F518A3B23600EE8F6B /* Addtion classes */ = {
+			isa = PBXGroup;
+			children = (
+				5AE8DBF818B37C5400982156 /* HMSideMenu */,
+				5AB54EE618B0C2760087C307 /* LeveyPopListView */,
+				5ABC47FC18A3B4FF00EE8F6B /* NavigationMenuView */,
+				5ABA0CFE1897C55000DC4FAF /* SWRevealViewController.h */,
+				5ABA0CFF1897C55000DC4FAF /* SWRevealViewController.m */,
+				5AC7080B18AA6DBD00D6DE1D /* Reachability.h */,
+				5AC7080C18AA6DBD00D6DE1D /* Reachability.m */,
+			);
+			name = "Addtion classes";
+			sourceTree = "<group>";
+		};
+		5ABC47F618A3B2B000EE8F6B /* Options of menu */ = {
+			isa = PBXGroup;
+			children = (
+				5AB738AE188EAAA700E5D6BC /* TemperatureViewController.h */,
+				5AB738AF188EAAA700E5D6BC /* TemperatureViewController.m */,
+				5AB738A2188EA26200E5D6BC /* TimeSyncViewController.h */,
+				5AB738A3188EA26200E5D6BC /* TimeSyncViewController.m */,
+				5ABE1DEF1893CC3F004EEAFA /* FavouritesViewController.h */,
+				5ABE1DF01893CC3F004EEAFA /* FavouritesViewController.m */,
+				5ABFEAAF188D286100589929 /* FuelViewController.h */,
+				5ABFEAB0188D286100589929 /* FuelViewController.m */,
+				5AB7389F188E999400E5D6BC /* MileageViewController.h */,
+				5AB738A0188E999400E5D6BC /* MileageViewController.m */,
+			);
+			name = "Options of menu";
+			sourceTree = "<group>";
+		};
+		5ABC47F818A3B2F900EE8F6B /* Map */ = {
+			isa = PBXGroup;
+			children = (
+				5AAF72CF18931B4400DA730D /* MapPoint.h */,
+				5AAF72D018931B4400DA730D /* MapPoint.m */,
+				5AAF72CC189309E100DA730D /* MapPlacesViewController.h */,
+				5AAF72CD189309E100DA730D /* MapPlacesViewController.m */,
+				5AC80D9A18A9328500BCEE4A /* ListOfPlacesViewController.h */,
+				5AC80D9B18A9328500BCEE4A /* ListOfPlacesViewController.m */,
+			);
+			name = Map;
+			sourceTree = "<group>";
+		};
+		5ABC47F918A3B31400EE8F6B /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				5AB3B93218AE68F60035D7DE /* Bmw-Sedan.jpg */,
+				5ABC2FB018A4F65000DF9F5A /* pin.png */,
+				5AC54FE718A3D5B90092BC1E /* atention.png */,
+				5AC54FE518A3D26C0092BC1E /* settings.png */,
+				5ABC47FA18A3B34F00EE8F6B /* 1391624059_star.png */,
+				5A357A4918A282EB00FB98D7 /* 1391632273_update.png */,
+				5A357A4A18A282EB00FB98D7 /* 1391632364_60.png */,
+				5A357A4118A281D900FB98D7 /* 1391632011_charge_battery.png */,
+				5A357A4218A281D900FB98D7 /* 1391632018_shopping_bag.png */,
+				5A357A4318A281D900FB98D7 /* 1391632024_speedometer.png */,
+				5A357A4418A281D900FB98D7 /* 1391632062_location.png */,
+				5ABA0D0A1897D36A00DC4FAF /* menu.png */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
+		5ABC47FC18A3B4FF00EE8F6B /* NavigationMenuView */ = {
+			isa = PBXGroup;
+			children = (
+				5ABC47FD18A3B4FF00EE8F6B /* images */,
+				5ABC480218A3B4FF00EE8F6B /* SICellSelection.h */,
+				5ABC480318A3B4FF00EE8F6B /* SICellSelection.m */,
+				5ABC480418A3B4FF00EE8F6B /* SIMenuButton.h */,
+				5ABC480518A3B4FF00EE8F6B /* SIMenuButton.m */,
+				5ABC480618A3B4FF00EE8F6B /* SIMenuCell.h */,
+				5ABC480718A3B4FF00EE8F6B /* SIMenuCell.m */,
+				5ABC480818A3B4FF00EE8F6B /* SIMenuConfiguration.h */,
+				5ABC480918A3B4FF00EE8F6B /* SIMenuConfiguration.m */,
+				5ABC480A18A3B4FF00EE8F6B /* SIMenuTable.h */,
+				5ABC480B18A3B4FF00EE8F6B /* SIMenuTable.m */,
+				5ABC480C18A3B4FF00EE8F6B /* SINavigationMenuView.h */,
+				5ABC480D18A3B4FF00EE8F6B /* SINavigationMenuView.m */,
+				5ABC480E18A3B4FF00EE8F6B /* UIColor+Extension.h */,
+				5ABC480F18A3B4FF00EE8F6B /* UIColor+Extension.m */,
+			);
+			path = NavigationMenuView;
+			sourceTree = "<group>";
+		};
+		5ABC47FD18A3B4FF00EE8F6B /* images */ = {
+			isa = PBXGroup;
+			children = (
+				5ABC481F18A3BFA500EE8F6B /* arrow_.png */,
+				5ABC47FF18A3B4FF00EE8F6B /* arrow_down1.png */,
+				5ABC480018A3B4FF00EE8F6B /* arrow_down1@2x.png */,
+			);
+			path = images;
+			sourceTree = "<group>";
+		};
+		5AE8DBF818B37C5400982156 /* HMSideMenu */ = {
+			isa = PBXGroup;
+			children = (
+				5AE8DBF918B37C5500982156 /* HMSideMenu.h */,
+				5AE8DBFA18B37C5500982156 /* HMSideMenu.m */,
+			);
+			path = HMSideMenu;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -212,6 +500,39 @@
 			knownRegions = (
 				en,
 				Base,
+				ar,
+				ca,
+				cs,
+				da,
+				de,
+				el,
+				en_GB,
+				es,
+				fi,
+				fr,
+				he,
+				hr,
+				hu,
+				id,
+				it,
+				ja,
+				ko,
+				ms,
+				nl,
+				no,
+				pl,
+				pt,
+				pt_PT,
+				ro,
+				ru,
+				sk,
+				sv,
+				th,
+				tr,
+				uk,
+				vi,
+				zh_CN,
+				zh_TW,
 			);
 			mainGroup = 5AAF1BC7188957E6002C74AE;
 			productRefGroup = 5AAF1BD1188957E6002C74AE /* Products */;
@@ -229,9 +550,26 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5AC54FE618A3D26C0092BC1E /* settings.png in Resources */,
 				5AAF1BEC188957E6002C74AE /* Images.xcassets in Resources */,
+				5ABC482018A3BFA500EE8F6B /* arrow_.png in Resources */,
+				5A357A4618A281D900FB98D7 /* 1391632018_shopping_bag.png in Resources */,
+				5A357A4718A281D900FB98D7 /* 1391632024_speedometer.png in Resources */,
+				5ABC481218A3B50000EE8F6B /* arrow_down1@2x.png in Resources */,
+				5AB3B93318AE68F60035D7DE /* Bmw-Sedan.jpg in Resources */,
+				5ABC47FB18A3B34F00EE8F6B /* 1391624059_star.png in Resources */,
 				5AAF1BDE188957E6002C74AE /* InfoPlist.strings in Resources */,
-				5AAF1BE7188957E6002C74AE /* Main.storyboard in Resources */,
+				5ABC481118A3B50000EE8F6B /* arrow_down1.png in Resources */,
+				5AB8B27018929B76000001E5 /* GoogleMaps.bundle in Resources */,
+				5AC80D9918A8F54300BCEE4A /* bmw.png in Resources */,
+				5AC69EEE188DB7D7009D6EF5 /* Main.storyboard in Resources */,
+				5A357A4C18A282EB00FB98D7 /* 1391632364_60.png in Resources */,
+				5A357A4818A281D900FB98D7 /* 1391632062_location.png in Resources */,
+				5ABA0D0B1897D36A00DC4FAF /* menu.png in Resources */,
+				5A357A4518A281D900FB98D7 /* 1391632011_charge_battery.png in Resources */,
+				5ABC2FB118A4F65000DF9F5A /* pin.png in Resources */,
+				5AC54FE818A3D5B90092BC1E /* atention.png in Resources */,
+				5A357A4B18A282EB00FB98D7 /* 1391632273_update.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -250,9 +588,32 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5AAF1BEA188957E6002C74AE /* WLANViewController.m in Sources */,
+				5ABF02651889E2B100ABDBF6 /* ConnectionModel.m in Sources */,
+				5AB738A4188EA26200E5D6BC /* TimeSyncViewController.m in Sources */,
+				5AB738A1188E999400E5D6BC /* MileageViewController.m in Sources */,
+				5ABC481618A3B50000EE8F6B /* SIMenuCell.m in Sources */,
+				5AC80D9C18A9328500BCEE4A /* ListOfPlacesViewController.m in Sources */,
+				5AB54EEB18B0C2760087C307 /* LeveyPopListView.m in Sources */,
+				5ABFEAB1188D286100589929 /* FuelViewController.m in Sources */,
+				5AAF72D118931B4400DA730D /* MapPoint.m in Sources */,
+				5ABC481518A3B50000EE8F6B /* SIMenuButton.m in Sources */,
 				5AAF1BE4188957E6002C74AE /* WLANAppDelegate.m in Sources */,
+				5A357A3E18A23F4A00FB98D7 /* MainMenuViewController.m in Sources */,
+				5ABC481A18A3B50000EE8F6B /* UIColor+Extension.m in Sources */,
+				5AB738B0188EAAA700E5D6BC /* TemperatureViewController.m in Sources */,
+				5ABE1DF11893CC40004EEAFA /* FavouritesViewController.m in Sources */,
+				5ACE8AF118A9753A007828CE /* ObjectListViewController.m in Sources */,
+				5ABA0D001897C55000DC4FAF /* SWRevealViewController.m in Sources */,
+				5ABC481918A3B50000EE8F6B /* SINavigationMenuView.m in Sources */,
+				5AB54EEC18B0C2760087C307 /* LeveyPopListViewCell.m in Sources */,
+				5ABC481818A3B50000EE8F6B /* SIMenuTable.m in Sources */,
+				5AC7080D18AA6DBD00D6DE1D /* Reachability.m in Sources */,
+				5AAF72CE189309E100DA730D /* MapPlacesViewController.m in Sources */,
+				5ABC481418A3B50000EE8F6B /* SICellSelection.m in Sources */,
+				5ABF021C1889B72700ABDBF6 /* TableOptionsViewController.m in Sources */,
 				5AAF1BE0188957E6002C74AE /* main.m in Sources */,
+				5AE8DBFB18B37C5500982156 /* HMSideMenu.m in Sources */,
+				5ABC481718A3B50000EE8F6B /* SIMenuConfiguration.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -281,14 +642,6 @@
 				5AAF1BDD188957E6002C74AE /* en */,
 			);
 			name = InfoPlist.strings;
-			sourceTree = "<group>";
-		};
-		5AAF1BE5188957E6002C74AE /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				5AAF1BE6188957E6002C74AE /* Base */,
-			);
-			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
 		5AAF1BFB188957E7002C74AE /* InfoPlist.strings */ = {
@@ -379,9 +732,20 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					/Users/Yurii/Documents/BMW_Client,
+					"/Users/Yurii/Downloads/GoogleMaps-iOS-1.6.2",
+					"/Users/Yurii/Downloads/GoogleMaps-iOS-1.6.2/GoogleMapsSDKDemos",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "BMW_Client/BMW_Client-Prefix.pch";
 				INFOPLIST_FILE = "BMW_Client/BMW_Client-Info.plist";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					/Users/Yurii/Documents/BMW_Client/GoogleMaps.framework,
+				);
+				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -392,9 +756,20 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					/Users/Yurii/Documents/BMW_Client,
+					"/Users/Yurii/Downloads/GoogleMaps-iOS-1.6.2",
+					"/Users/Yurii/Downloads/GoogleMaps-iOS-1.6.2/GoogleMapsSDKDemos",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "BMW_Client/BMW_Client-Prefix.pch";
 				INFOPLIST_FILE = "BMW_Client/BMW_Client-Info.plist";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					/Users/Yurii/Documents/BMW_Client/GoogleMaps.framework,
+				);
+				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -461,6 +836,7 @@
 				5AAF1C04188957E7002C74AE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5AAF1C05188957E7002C74AE /* Build configuration list for PBXNativeTarget "BMW_ClientTests" */ = {
 			isa = XCConfigurationList;
@@ -469,6 +845,7 @@
 				5AAF1C07188957E7002C74AE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
